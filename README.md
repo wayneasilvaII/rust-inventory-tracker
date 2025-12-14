@@ -10,3 +10,22 @@
 My experience also fostered a strong security and reliability mindset. Through working in multiple languages, including C++ and Rust, and integrating database-backed persistence, I gained a deeper appreciation for memory safety, error handling, and secure data management. I now prioritize correctness, predictability, and long-term stability in software design decisions.
 
   The artifacts in this ePortfolio work together to illustrate my progression as a computer scientist and software engineer. Each demonstrates a different aspect of my skill set, while collectively they highlight my ability to design, evaluate, and improve software systems. This portfolio serves as both a summary of my academic journey and a foundation for my continued growth as a developer entering the field of computer science.
+
+## Portfolio Overview
+
+This ePortfolio centers on a single software artifact that I selected and incrementally enhanced throughout my capstone experience. The project began as a C++ grocery inventory tracking application and was systematically reviewed, refactored, and extended to demonstrate growth across multiple areas of computer science.
+
+The artifact was enhanced in three key stages:
+
+Software Design and Engineering – The original C++ codebase was analyzed and ported to Rust, emphasizing clearer structure, safer memory management, and improved maintainability.
+
+Algorithms and Data Structures – Core logic was refined through the selection and implementation of more appropriate data structures, improving efficiency, correctness, and overall program clarity.
+
+Database Functionality – Persistent storage was added using a lightweight database, extending the application beyond file-based processing and demonstrating foundational database integration skills.
+
+Together, these enhancements illustrate my ability to evaluate existing systems, make informed design decisions, and iteratively improve software using sound computer science principles. The portfolio reflects both my technical development and my approach to thoughtful, incremental problem solving.
+
+## Artifact Index
+- Enhancement One: Software Design & Engineering
+- Enhancement Two: Algorithms & Data Structures
+- Enhancement Three: Databases
