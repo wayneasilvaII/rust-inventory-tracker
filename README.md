@@ -12,3 +12,7 @@ The third enhancement extended the application by adding database functionality.
 
 Together, these three enhancements transform the original project from a simple instructional assignment into a structured, extensible system that reflects my growth as a computer scientist. Through this process, I strengthened my skills in software design, algorithmic thinking, data structure selection, and database integration. Most importantly, I learned the value of revisiting earlier work with a critical eye, applying modern tools and principles, and making deliberate design choices based on the problem being solved. This artifact now serves as a clear representation of my technical progression throughout the Computer Science program and my readiness to design, evaluate, and enhance real-world software systems.
 
+## Code Review (YouTube)
+
+https://youtu.be/rROxnryGSkA
+
