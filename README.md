@@ -1,3 +1,7 @@
+# Wayne A. Silva II — Computer Science ePortfolio
+
+## Professional Self-Assessment
+
   Completing the Computer Science program at Southern New Hampshire University and developing this ePortfolio has allowed me to reflect on my growth from learning foundational programming concepts to designing, analyzing, and enhancing complete software systems. The capstone experience required me to revisit earlier work, evaluate it critically, and improve it using industry relevant tools, modern programming languages, and sound computer science principles. As a result, this portfolio represents both my technical abilities and my approach to professional problem solving.
   
   Throughout the program, I developed strong skills in software design, data structures, and algorithmic thinking. I learned to select appropriate data structures, analyze trade-offs in efficiency and maintainability, and apply these decisions in real implementations. My coursework emphasized writing clear, modular code and improving existing systems rather than simply producing new ones. These skills are reflected in the enhanced artifacts that follow, which demonstrate structured refactoring, performance improvements, and thoughtful system design.
